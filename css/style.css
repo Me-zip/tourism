@@ -1,0 +1,192 @@
+body{
+  margin: 0;
+}
+
+.bg-img{
+  width: 100%;
+  height: 740px;
+}
+
+.topcontainer{
+  position: relative;
+  text-align: center;
+
+}
+
+.name{
+  position: absolute;
+  top: 10%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  color: white;
+
+}
+.tagline{
+  position: absolute;
+  top: 20%;
+  left: 23%;
+  width: 200px;
+  color: white;
+
+  font-size: 1rem
+}
+.searchbar{
+  position: absolute;
+  width: 400px;
+
+  top: 50%;
+  left: 35%;
+
+}
+
+
+.btn-search {
+	  background: #424242;
+	  border-radius: 0;
+	  color: #fff;
+	  border-width: 1px;
+	  border-style: solid;
+	  border-color: #1c1c1c;
+	}
+	.btn-search:link, .btn-search:visited {
+	  color: #fff;
+	}
+	.btn-search:active, .btn-search:hover {
+	  background: #1c1c1c;
+	  color: #fff;
+	}
+
+
+.nav-item{
+  font-size: 1rem;
+  font-weight: bolder;
+}
+.navigationbar{
+  position: absolute;
+  top: 6%;
+  right: 45px;
+}
+
+
+/* 2nd PAGE */
+
+.container{
+  padding: 7% 15%;
+  margin: 0 auto;
+
+}
+
+.img1{
+  position: relative;
+  left: 5%;
+
+  border-radius: 100%;
+  width: 20%;
+
+}
+
+.h2-1{
+
+  text-align: center;
+  width: 35%;
+  margin: 0 auto;
+  position: relative;
+  bottom: 161px;
+
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 700;
+
+}
+.p{
+  text-align: center;
+  width: 30%;
+  margin: 0;
+  position: relative;
+  bottom: 120px;
+  left: 35%;
+
+}
+
+.h2-2{
+  text-align: left;
+  position: relative;
+  bottom: 50px;
+  left: 38%;
+  width: 30%;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 700;
+}
+.image1{
+  border-radius: 100%;
+  width: 18%;
+  float:right;
+  position: relative;
+  left: -8%;
+  top: -70px;
+}
+.p1-1{
+  text-align:center;
+  position: relative;
+  bottom: 20px;
+  left: 35%;
+  width: 30%;
+}
+
+.div1{
+  margin: 10em auto;
+}
+.divn{
+  margin: 10em auto 0 auto;
+
+}
+
+/* 3rd Page */
+
+#testimonials{
+  padding: 15% 25%;
+
+  background-color: #dddddd;
+  text-align: center;
+
+}
+
+.testimonial-images{
+  border-radius: 50%;
+  width: 40%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-text{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 900;
+}
+
+#footer{
+  padding: 5% 0 0 0;
+  text-align: center;
+}
+.social-icon{
+  width: 200%;
+  height: 200%;
+  margin: 20px 10px;
+}
+.icon1:hover{
+  color: red;
+}
+.icon2:hover{
+  color: #3b5998;
+}
+.icon3:hover{
+  color: #00acee;
+}
+.icon4:hover{
+  color: #ea4335 ;
+}
+
+.last-p{
+
+  padding: 5% 0 0 0;
+}
